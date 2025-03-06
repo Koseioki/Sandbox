@@ -1,0 +1,32 @@
+body{
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    /* margin: 0 2rem; */
+    padding: 0;
+}
+
+.alert{
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 0.75rem;
+    margin: 1rem 0;
+    border: 0.125rem solid #f5c6cb;
+    border-radius: 0.25rem;
+}
+
+header{
+    border: 0.125rem solid #aaa;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+
+.title{
+    /* text-align: center; */
+    /* margin-top: 2rem; */
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+}
