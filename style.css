@@ -39,3 +39,40 @@ dt{
 .dl-table{
     display: flex;
 }
+
+table{
+    border-collapse: collapse;
+    margin: 1rem 0;
+    /* width: 100%; */
+}
+
+table, th, td{
+    border: 0.125rem solid black;
+    padding: 1rem;
+}
+
+.region{
+    /* green */
+    background-color: #d4edda;
+    color: #155724;
+    padding: 1rem;
+    margin: 1rem 0;
+    border: 0.125rem solid #c3e6cb;
+}
+
+details{
+    /* padding: 0 1rem; */
+    border-top: #333 0.125rem solid;
+    border-bottom: #333 0.125rem solid;
+}
+
+summary{
+    font-weight: bold;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 1rem;
+}
+
+details p{
+    padding: 0 1rem;
+}
