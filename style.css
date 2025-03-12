@@ -4,6 +4,8 @@ body{
     font-family: Arial, sans-serif;
     /* margin: 0 2rem; */
     padding: 0;
+    margin: auto;
+    max-width: 60rem;
 }
 
 .alert{
